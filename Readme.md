@@ -9,10 +9,10 @@
 - Автор: https://github.com/tshemsedinov
 
 ## Программа на 1й семестр
-~~- вт 03 cен 16:10: [Введение в программирование](https://youtu.be/5Gt61EX6HZ4)~~  
-~~- вт 03 cен 14:15: [Основы программирования для групп ИП-93, 94, 95](https://youtu.be/jaWu5DoMcZw)~~  
+~~ - вт 03 cен 16:10: [Введение в программирование](https://youtu.be/5Gt61EX6HZ4)~~  
+~~ - вт 03 cен 14:15: [Основы программирования для групп ИП-93, 94, 95](https://youtu.be/jaWu5DoMcZw)~~  
   (это для студентов КПИ 1 курса)  
-~~- вт 03 сен 17:30: [Семинар: Обсуждение плана и материалов курса](https://youtu.be/bQMTbRWrteU)~~  
+~~ - вт 03 сен 17:30: [Семинар: Обсуждение плана и материалов курса](https://youtu.be/bQMTbRWrteU)~~  
 ~~- видео: [Настройка среды: Node.js, npm, git, eslint](https://youtu.be/hSyA7tcNaCE)~~  
   (смотреть выборочно, что не понятно - пропускайте)  
 ~~- настройка среды: [Exercises.ru.md](https://github.com/HowProgrammingWorks/Introduction/blob/master/Exercises.ru.md)~~  
