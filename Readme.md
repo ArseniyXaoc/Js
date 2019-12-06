@@ -9,29 +9,29 @@
 - Автор: https://github.com/tshemsedinov
 
 ## Программа на 1й семестр
-~~ - вт 03 cен 16:10: [Введение в программирование](https://youtu.be/5Gt61EX6HZ4)~~  
-~~ - вт 03 cен 14:15: [Основы программирования для групп ИП-93, 94, 95](https://youtu.be/jaWu5DoMcZw)~~  
+~~- вт 03 cен 16:10: [Введение в программирование](https://youtu.be/5Gt61EX6HZ4)~~  
+~~- вт 03 cен 14:15: [Основы программирования для групп ИП-93, 94, 95](https://youtu.be/jaWu5DoMcZw)~~  
   (это для студентов КПИ 1 курса)  
-~~ - вт 03 сен 17:30: [Семинар: Обсуждение плана и материалов курса](https://youtu.be/bQMTbRWrteU)~~  
+~~- вт 03 сен 17:30: [Семинар: Обсуждение плана и материалов курса](https://youtu.be/bQMTbRWrteU)~~  
 ~~- видео: [Настройка среды: Node.js, npm, git, eslint](https://youtu.be/hSyA7tcNaCE)~~  
   (смотреть выборочно, что не понятно - пропускайте)  
 ~~- настройка среды: [Exercises.ru.md](https://github.com/HowProgrammingWorks/Introduction/blob/master/Exercises.ru.md)~~  
-~~- видео: [Базовый синтаксис JavaScript](https://youtu.be/xJn3k1f4BiM)~~
-~~- примеры и задачи:
-  [Reusable](https://github.com/HowProgrammingWorks/Reusable/blob/master/Exercises.ru.md),
-  [Cheatsheet](https://github.com/HowProgrammingWorks/Cheatsheet)~~
-- видео: [Базовый синтаксис JavaScript, продолжение](https://youtu.be/qa-XleqA0JU)
-~~- примеры и задачи:
-  [DataTypes](https://github.com/HowProgrammingWorks/DataTypes/blob/master/Exercises.ru.md),
-  [Conditional](https://github.com/HowProgrammingWorks/Conditional)
-- вт 10 cен 14:15: [Семинар: Автоматическая проверка лабораторных работ](https://youtu.be/M4KpG0LEAyA)
-~~- вт 10 сен 15:00: [Семинар: Базовый синтаксис языка JavaScript](https://youtu.be/PGqjTXQe_qw)
-- вт 10 сен 16:10: [Введение в программирование, продолжение](https://youtu.be/PzlLXQ3RaDs)
-~~- видео: [Функции, лямбды, контексты, замыкания в JavaScript](https://youtu.be/pn5myCmpV2U)
-- видео: [Массивы, объекты, классы, прототипы в JavaScript](https://youtu.be/VBMGnAPfmsY)
-~~- вт 17 сен 16:10: [Языки программирования](https://youtu.be/enHA1CRkJe0)
-- вт 17 сен 17:30: [Семинар: JavaScript, ответы на вопросы](https://youtu.be/wqkQ6eslyzY)
-~~- видео: [Композиция, каррирование, частичное применение в JavaScript](https://youtu.be/ND8KQ5xjk7o)~~
+~~- видео: [Базовый синтаксис JavaScript](https://youtu.be/xJn3k1f4BiM)~~  
+~~- примеры и задачи:  
+  ~~[Reusable](https://github.com/HowProgrammingWorks/Reusable/blob/master/Exercises.ru.md),~~  
+ ~~[Cheatsheet](https://github.com/HowProgrammingWorks/Cheatsheet)~~  
+~~- видео: [Базовый синтаксис JavaScript, продолжение](https://youtu.be/qa-XleqA0JU)~~  
+~~- примеры и задачи:~~  
+  ~~[DataTypes](https://github.com/HowProgrammingWorks/DataTypes/blob/master/Exercises.ru.md),~~  
+  ~~[Conditional](https://github.com/HowProgrammingWorks/Conditional)~~  
+~~- вт 10 cен 14:15: [Семинар: Автоматическая проверка лабораторных работ](https://youtu.be/M4KpG0LEAyA)~~  
+~~- вт 10 сен 15:00: [Семинар: Базовый синтаксис языка JavaScript](https://youtu.be/PGqjTXQe_qw)~~  
+~~- вт 10 сен 16:10: [Введение в программирование, продолжение](https://youtu.be/PzlLXQ3RaDs)~~  
+~~- видео: [Функции, лямбды, контексты, замыкания в JavaScript](https://youtu.be/pn5myCmpV2U)~~  
+~~- видео: [Массивы, объекты, классы, прототипы в JavaScript](https://youtu.be/VBMGnAPfmsY)~~  
+~~- вт 17 сен 16:10: [Языки программирования](https://youtu.be/enHA1CRkJe0)~~  
+~~- вт 17 сен 17:30: [Семинар: JavaScript, ответы на вопросы](https://youtu.be/wqkQ6eslyzY)~~  
+~~- видео: [Композиция, каррирование, частичное применение в JavaScript](https://youtu.be/ND8KQ5xjk7o)~~  
 - видео: [Функции высшего порядка, колбеки, события на JavaScript](https://youtu.be/1vqATwbGHnc)
 - вт 24 сен 16:10: [История развития программирования](https://youtu.be/qqz0VSaNxuw)
 - вт 24 сен 17:30: [Парадигмы программирования](https://youtu.be/Yk1sxLVHfjs)
