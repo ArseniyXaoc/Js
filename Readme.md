@@ -10,16 +10,16 @@
 
 ## Программа на 1й семестр
 ~~- вт 03 cен 16:10: [Введение в программирование](https://youtu.be/5Gt61EX6HZ4)~~
-- вт 03 cен 14:15: [Основы программирования для групп ИП-93, 94, 95](https://youtu.be/jaWu5DoMcZw)
-  (это для студентов КПИ 1 курса)
-~~- вт 03 сен 17:30: [Семинар: Обсуждение плана и материалов курса](https://youtu.be/bQMTbRWrteU)
-- видео: [Настройка среды: Node.js, npm, git, eslint](https://youtu.be/hSyA7tcNaCE)
+~~- вт 03 cен 14:15: [Основы программирования для групп ИП-93, 94, 95](https://youtu.be/jaWu5DoMcZw)
+  (это для студентов КПИ 1 курса)~~
+~~- вт 03 сен 17:30: [Семинар: Обсуждение плана и материалов курса](https://youtu.be/bQMTbRWrteU)~~
+~~- видео: [Настройка среды: Node.js, npm, git, eslint](https://youtu.be/hSyA7tcNaCE)~~
   (смотреть выборочно, что не понятно - пропускайте)
-~~- настройка среды: [Exercises.ru.md](https://github.com/HowProgrammingWorks/Introduction/blob/master/Exercises.ru.md)
-- видео: [Базовый синтаксис JavaScript](https://youtu.be/xJn3k1f4BiM)
+~~- настройка среды: [Exercises.ru.md](https://github.com/HowProgrammingWorks/Introduction/blob/master/Exercises.ru.md)~~
+~~- видео: [Базовый синтаксис JavaScript](https://youtu.be/xJn3k1f4BiM)~~
 ~~- примеры и задачи:
   [Reusable](https://github.com/HowProgrammingWorks/Reusable/blob/master/Exercises.ru.md),
-  [Cheatsheet](https://github.com/HowProgrammingWorks/Cheatsheet)
+  [Cheatsheet](https://github.com/HowProgrammingWorks/Cheatsheet)~~
 - видео: [Базовый синтаксис JavaScript, продолжение](https://youtu.be/qa-XleqA0JU)
 ~~- примеры и задачи:
   [DataTypes](https://github.com/HowProgrammingWorks/DataTypes/blob/master/Exercises.ru.md),
